@@ -1,0 +1,71 @@
+html {width: 400mm;
+      height: 297mm;}
+
+header {background-image: url("pattern.png");
+padding: 0%;}
+body{
+    padding: 5%;
+}
+
+.logo {
+    width: 200px;
+    padding-top: 5%;
+    }
+
+#sottotitoloblu {
+   color: rgb(0, 213, 255);}
+
+h1{
+    font-size: 250%;
+    padding-top: 1%;
+}
+
+h1,h3,h4{margin: 0px;}
+
+h3,h4{color: rgb(146, 145, 145);}
+
+h4{margin-bottom: 2%;}
+
+.descrizioneimmagini {font-size: 70%;}
+
+.evidenziato-giallo {background-color: yellow;}
+
+.ul{margin-left: -25px;}
+
+.row-left,.row-center{display: inline-block;
+                      width:25% ;}
+
+.row-right{display: inline-block;
+           width:48%;
+}
+
+.rowtitolo{background-color: rgb(55, 198, 255);
+     color: white;}
+
+.row1{background-color: rgb(143, 219, 247);}
+
+.row2{background-color: white;}
+
+.row3{background-color: rgb(143, 219, 247);}
+
+.row1,.row2,.row3{color: black ;}
+   
+.immagine-footer1{
+    background-image: url('monitor.jpg');
+    background-repeat: no-repeat;
+    color: #FFFFFF;
+    font-size: 140%;
+    padding: 2%;
+    width: 240px;
+    height: 150px;
+}
+  
+.immagine-footer2{
+    background-image: url('graph.jpg');
+    background-repeat: no-repeat;
+    color: #FFFFFF;
+    font-size: 140%;
+    padding: 2%;
+    width: 240px;
+    height: 150px;}
+    
