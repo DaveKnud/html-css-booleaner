@@ -1,7 +1,9 @@
 html {width: 280mm;
       height: 297mm;}
 
-header {background-image: url("pattern.png");}
+header {background-image: url("pattern.png");
+background-color: rgb(65, 151, 255);
+background-size: 30%;}
 
 .logo {
     width: 200px;
@@ -35,7 +37,8 @@ h4{margin-bottom: 2%;}
            width:48%;
 }
 
-.rowtitolo{background-color: rgb(55, 198, 255);
+.rowtitolo{background-color: rgb(55, 198, 255)
+;
      color: white;}
 
 .row1{background-color: rgb(143, 219, 247);}
