@@ -1,0 +1,10 @@
+header {background-image: url("pattern.png");
+    background-repeat: repeat-x;
+}
+
+.logo {
+    width: 200px;
+    padding-top: 5%;
+    padding-left: 10%;
+    
+}

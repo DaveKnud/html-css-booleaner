@@ -1,0 +1,63 @@
+html {width: 280mm;
+      height: 297mm;}
+
+header {background-image: url("pattern.png");
+}
+
+.logo {
+    width: 200px;
+    padding-top: 5%;
+    }
+
+#sottotitoloblu {
+   color: rgb(0, 213, 255);
+}
+
+h3,h4{
+    color: rgb(146, 145, 145);
+}
+
+.descrizioneimmagini {
+    font-size: 70%;
+}
+
+.evidenziato {
+    background-color: yellow;
+    }
+
+.ul{
+    margin-left: -25px;
+}
+
+.row-left,.row-center{display: inline-block;
+                                 width:25% ;}
+
+.row-right{display: inline-block;
+    width:48%;
+}
+
+.rowtitolo{background-color: rgb(55, 198, 255);
+     color: white;}
+
+.row-right{}
+
+.row1{
+    background-color: rgb(143, 219, 247);
+   
+}
+
+.row2{
+    background-color: white;
+    
+}
+
+.row3{background-color: rgb(143, 219, 247);
+    ;
+}
+.row1,.row2,.row3{
+    color: black ;
+   }
+   
+
+  
+   
